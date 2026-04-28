@@ -29,3 +29,4 @@ Este projeto foi desenvolvido com foco em acessibilidade, garantindo que diferen
 - **Mudança de contraste**: Foi adicionada a opção de alternar entre diferentes esquemas de contraste, melhorando a visibilidade do conteúdo para usuários com dificuldades visuais ou em ambientes com iluminação desfavorável.
 ## Importância
 Essas funcionalidades tornam a página mais acessível e inclusiva, seguindo boas práticas de desenvolvimento web e contribuindo para uma melhor experiência de navegação para todos os usuários.
+A página contem caracteristicas responsivas.
