@@ -1,7 +1,7 @@
 {
   "name": "projeto-integrador-backend",
   "version": "1.0.0",
-  "description": "Backend Express para integrar o front-end Vital Lâmpadas com banco de dados PostgreSQL (Neon)",
+  "description": "Implementação no Trabalho",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
